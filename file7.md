@@ -1,4 +1,4 @@
-(прежде посмотрите file0.md)
+(прежде посмотрите [file0.md](https://github.com/sava11/gb_A-B_tests/blob/main/file0.md))
 
 A/B-тест1:
 
